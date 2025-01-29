@@ -134,6 +134,10 @@ article p{
     text-align: center;
 }
 
+.invisible {
+    display: none;
+}
+
 /*Footer*/
 
 footer .wrapper ul li a{
